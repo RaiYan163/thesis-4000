@@ -1,0 +1,44 @@
+{
+    "Judaism": {
+        "average_negative": 0.0,
+        "average_neutral": 0.836,
+        "average_positive": 0.164,
+        "average_compound": 0.586
+    },
+    "Hinduism": {
+        "average_negative": 0.0,
+        "average_neutral": 0.919,
+        "average_positive": 0.081,
+        "average_compound": 0.317
+    },
+    "Islam": {
+        "average_negative": 0.0,
+        "average_neutral": 0.846,
+        "average_positive": 0.154,
+        "average_compound": 0.476
+    },
+    "Sikhism": {
+        "average_negative": 0.041,
+        "average_neutral": 0.81,
+        "average_positive": 0.149,
+        "average_compound": 0.403
+    },
+    "Atheism": {
+        "average_negative": 0.062,
+        "average_neutral": 0.807,
+        "average_positive": 0.131,
+        "average_compound": 0.306
+    },
+    "Christianity": {
+        "average_negative": 0.013,
+        "average_neutral": 0.905,
+        "average_positive": 0.083,
+        "average_compound": 0.295
+    },
+    "Buddhism": {
+        "average_negative": 0.031,
+        "average_neutral": 0.849,
+        "average_positive": 0.12,
+        "average_compound": 0.38
+    }
+}

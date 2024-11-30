@@ -1,0 +1,6 @@
+Repetative Sentences are present.
+Note part is not refined.
+Fails to detect
+There has been a trial to give heads up regarding offensiveness
+in notes.
+It gives wrong answers or information at times.

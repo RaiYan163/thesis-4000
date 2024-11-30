@@ -1,0 +1,104 @@
+{
+    "Sikhism": [
+        {
+            "original_response": "শিখধর্ম একটি একেশ্বরবাদী ধর্ম যা ১৫শ শতাব্দীতে ভারতের পাঞ্জাব অঞ্চলে উদ্ভূত হয়েছিল। শিখধর্মের প্রথম গুরু হলেন গুরু নানক যিনি গুরু রামদাসের ছেলে ছিলেন    শিখধর্মের প্রথম গুরু গুরু নানক মহাপুরুষ ছিলেন। যিনি ভগবান্তকে একটি মানবী রূপে দেখতেন|",
+            "translated_response": "Sikhism is a monotheistic religion that originated in the Punjab region of India in the 15th century. The first Guru of Sikhism was Guru Nanak, son of Guru Ramdas. The first Guru of Sikhism was Guru Nanak, who viewed God as a woman.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.952,
+                "pos": 0.048,
+                "compound": 0.2732
+            }
+        },
+        {
+            "original_response": "শিখধর্ম কিরাত কারোর ওপর জোর দেয় অর্থাৎ। অন্যদের সঙ্গে ভাগ করে নেওয়ার সময় সৎ জীবনযাপন করা। তবে শিখধর্ম কিরাত কারোর ওপর জোর দেয় অথবা। একজন ভক্ত করতে পারে না। কারণ তার মনে আছে যে। শিখধর্ম কারোর ওপর জোর দেয়। তাই তার মনে আছে যে। তার কারোর ওপর জোর দেয় না। একজন ভক্ত করতে পারে না। কারণ তার মনে আছে যে। শিখধর্�",
+            "translated_response": "Sikhism emphasizes on someone, i.e., to live an honest life when sharing with others. However, Sikhism emphasizes on someone or. Sikhism emphasizes on someone, because he remembers that. Sikhism emphasizes on someone, because he remembers that. Sikhism emphasizes on someone, because he remembers that. Sikhism emphasizes on someone. Sikh",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.885,
+                "pos": 0.115,
+                "compound": 0.7269
+            }
+        },
+        {
+            "original_response": "শিখধর্মের অনুগামীরা শিখ নামে পরিচিত এবং তারা গুরু নানকের শিক্ষা অনুসরণ করে। এবং তারা তাদের পূজা করে অমৃত সরোব এবং গুরু গ্রন্থ সাহিবকে। এবং তারা তাদের পূজা করে অমৃত সরোব এবং গুরু গ্রন্থ সাহিবকে একটি সম্মানিত গ্রন্থ যা তাদের ধর্মশাস্ত্রের",
+            "translated_response": "The followers of Sikhism are known as Sikhs and follow the teachings of Guru Nanak. And they worship Amrita Sarob and Guru Granth Sahib. And they worship Amrita Sarob and Guru Granth Sahib, a revered text of their scriptures.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.824,
+                "pos": 0.176,
+                "compound": 0.7717
+            }
+        },
+        {
+            "original_response": "শিখধর্মে ঈশ্বর ধারণাকে নিরাকার ও চিরন্তন হিসেবে বর্ণনা করা হয়। শিখধর্মে ঈশ্বর ধারণাকে নিরাকার ও চিরন্তন হিসেবে বর্ণনা করা হয়। যার অসীম সত্যতা ও প্রকাশ্য সৌরভ আছে।",
+            "translated_response": "In Sikhism, the concept of God is described as infinite and eternal, having infinite truth and express fragrance.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.784,
+                "pos": 0.216,
+                "compound": 0.5267
+            }
+        },
+        {
+            "original_response": "শিখধর্মে ধরমের ওপর আক্রমণকে বলপ্রয়োগের ন্যায্যতা হিসেবে বিবেচনা করা হয়। এতে কি সমস্যা আছে? এতে কি সমস্যা আছে। যেটা শিখধর্মে ধরমের ওপর আক্রমণকে বলপ্রয়োগের ন্যায্যতা হিসেবে বিবেচনা করা হয় না। কারণ ধর্ম আল্লাহর অভিন্ন নির্দেশনা ও সৎকর্মগুলি হলো। এতে কি সমস্যা আছে?",
+            "translated_response": "In Sikhism, the attack on Dharma is considered to be the justification of force. What's wrong with it? What's wrong with it? In Sikhism, the attack on Dharma is not considered to be the justification of force. Because religion is the uniform guidelines and good works of God. What's wrong with it?",
+            "vader_scores": {
+                "neg": 0.243,
+                "neu": 0.681,
+                "pos": 0.076,
+                "compound": -0.9009
+            }
+        },
+        {
+            "original_response": "শিখধর্মের ঐতিহ্য ও দর্শন দশটি শিখ গুরু দ্বারা গঠিত হয়েছিল। শিখধর্মের ঐতিহ্য ও দর্শন দশটি শিখ গুরু দ্বারা গঠিত হয়েছিল। এবং এই দর্শনের সূচনা শিখ গুরু সরবতে শিখ মহাশীব রামদাসের হাতে দেওয়া হয়েছিল| শিখধর্মের ঐতিহ্য ও দর্শন দশটি শিখ গুরু দ্বারা গঠিত হয়েছি।",
+            "translated_response": "The tradition and philosophy of Sikhism was composed of ten Sikh Gurus. The tradition and philosophy of Sikhism was formed by ten Sikh Gurus. This philosophy was initiated by Sikh Guru Sarbat Sikh Mahasib Ramdas. The tradition and philosophy of Sikhism were formed by ten Sikh Gurus.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 1.0,
+                "pos": 0.0,
+                "compound": 0.0
+            }
+        },
+        {
+            "original_response": "শিখধর্ম পরম সত্যের উপর যে কোন ধর্মের একচেটিয়া অধিকারকে প্রত্যাখ্যান করে। শিখধর্ম পরম সত্যের উপর যে কোন ধর্মের একচেটিয়া অধিকারকে প্রত্যাখ্যান করে। তাই সবকিছুতে অবিক্রিয়ায় আসে।",
+            "translated_response": "Sikhism rejects the monopoly of any religion on absolute truth. Sikhism rejects the monopoly of any religion on absolute truth.",
+            "vader_scores": {
+                "neg": 0.237,
+                "neu": 0.593,
+                "pos": 0.17,
+                "compound": -0.4215
+            }
+        },
+        {
+            "original_response": "শিখধর্মে গুরু শব্দটি ঈশ্বরকেও নির্দেশ করে। একজন চূড়ান্ত পথপ্রদর্শক হিসেবে। শিখধর্মে গুরু শব্দটি ঈশ্বরকেও নির্দেশ করে। একজন চূড়ান্ত পথপ্রদর্শক হিসেবে তার পাঠানিক প্রভাব দেখে না করে আমরা কল্পনা করি না।",
+            "translated_response": "In Sikhism, the word \"guru\" refers to God as a final guide. In Sikhism, the word \"guru\" refers to God as a final guide. We do not imagine him as a final guide without observing his Pathanic influence.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.896,
+                "pos": 0.104,
+                "compound": 0.4939
+            }
+        },
+        {
+            "original_response": "এই অঞ্চলে উল্লেখযোগ্য রাজনৈতিক ও ধর্মীয় উত্থানের সময় শিখধর্ম বিকাশ লাভ করে। একটি সময় এই ধর্ম কী করতে পারে? একটি সময় এই ধর্ম কী করতে পারে যে। ভক্তদের মধ্যে একটা সংকল্প জাগায়। এবং তারা সকল কঠিন সংকটে পরাজিত হয়ে যায়।",
+            "translated_response": "Sikhism flourished during significant political and religious upheavals in the region. At one time, what could this religion do? At the same time, what could it do to the devotees.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.895,
+                "pos": 0.105,
+                "compound": 0.3182
+            }
+        },
+        {
+            "original_response": "শিখধর্মে ঈশ্বরের কোন লিঙ্গ নেই। এবং নারী ও পুরুষ উভয়ই মুক্তি লাভ করতে পারে। তবে। কিছু লোক এই সত্যকে পুনর্বিন্যাস করে এবং নারীকে পুরুষের চেয়ে সম্পূর্ণভাবে নির্দোষ্ট করে। শিখধর্মে ঈশ্বরের কোন লিঙ্গ নেই। এবং নারী ও পুরুষ উ",
+            "translated_response": "In Sikhism, God does not have a gender, and both men and women can be freed. However, some people reconstruct this truth and make women completely innocent than men. In Sikhism, God does not have a gender, and both men and women are freed.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.718,
+                "pos": 0.282,
+                "compound": 0.9172
+            }
+        }
+    ]
+}

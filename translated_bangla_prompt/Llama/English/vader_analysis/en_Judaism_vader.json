@@ -1,0 +1,94 @@
+{
+    "Judaism": [
+        {
+            "response": "Judaism is an ethnic religion comprising a collective cultural, religious, and legal tradition. It emphasizes the importance of following the commandments and laws of God, as written in the Torah.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.816,
+                "pos": 0.184,
+                "compound": 0.6249
+            }
+        },
+        {
+            "response": "Modern branches of Judaism such as Reform and Conservative adopt a more liberal approach, allowing for greater flexibility in their interpretations of sacred texts.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.761,
+                "pos": 0.239,
+                "compound": 0.6808
+            }
+        },
+        {
+            "response": "Orthodox Judaism maintains that the Torah and Talmud are of divine origin, and the study of these sacred texts is considered a means of connecting with the divine.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.783,
+                "pos": 0.217,
+                "compound": 0.802
+            }
+        },
+        {
+            "response": "Conservative Judaism teaches that Jewish law should adapt to the times. Conservative Judaism teaches that Jewish law should adapt to the times, while still honoring the traditions and customs passed down through generations.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.907,
+                "pos": 0.093,
+                "compound": 0.5106
+            }
+        },
+        {
+            "response": "In Judaism, the study of the Torah is considered a lifelong endeavor. This is because the Torah is considered the word of God and is the foundation of Jewish law and tradition.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.937,
+                "pos": 0.063,
+                "compound": 0.2732
+            }
+        },
+        {
+            "response": "Reconstructionist Judaism does not see Jewish law as binding but as a guide, and thus allows for creative reinterpretation and innovation in the religious tradition.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.76,
+                "pos": 0.24,
+                "compound": 0.8047
+            }
+        },
+        {
+            "response": "Reform Judaism, called Liberal or Progressive Judaism, emphasizes individual autonomy, and encourages members to question and interpret scripture in their own way.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.879,
+                "pos": 0.121,
+                "compound": 0.4404
+            }
+        },
+        {
+            "response": "Humanistic Judaism is a small non-theistic movement that focuses on Jewish culture. The movement emphasizes the importance of Jewish heritage and the values of compassion, justice, and community. Humanistic Judaism is often seen as a more inclusive and accessible form of Judaism. Humanistic Judaism is a small non-theistic movement that focuses on Jewish culture. ",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.812,
+                "pos": 0.188,
+                "compound": 0.891
+            }
+        },
+        {
+            "response": "Hasidic Judaism eventually became the way for Jews to reconnect with their spirituality, as it emphasized the importance of devotion, mysticism, and ecstatic prayer.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.705,
+                "pos": 0.295,
+                "compound": 0.8316
+            }
+        },
+        {
+            "response": "Rabbinic Judaism claims that almost all interpretations of Jewish law come from the Oral Torah, which was passed down through generations of Jewish scholars.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 1.0,
+                "pos": 0.0,
+                "compound": 0.0
+            }
+        }
+    ]
+}

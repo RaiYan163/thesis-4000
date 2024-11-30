@@ -1,0 +1,94 @@
+{
+    "Islam": [
+        {
+            "response": "Islam teaches that God is merciful, all-powerful, and unique, and His mercy is a guiding principle for believers in their daily lives.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.813,
+                "pos": 0.187,
+                "compound": 0.5574
+            }
+        },
+        {
+            "response": "Sunni Islam is sometimes referred to as orthodox Islam and follows the practices of the Prophet Muhammad. and is known for its emphasis on the importance of the Hadith, which are the sayings and actions of the Prophet Muhammad.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.938,
+                "pos": 0.062,
+                "compound": 0.3612
+            }
+        },
+        {
+            "response": "Shia Islam is based on Muhammads teachings and the leadership of his family. Shia Islam is based on Muhammads teachings and the leadership of his family, which is believed to be a continuation of the divine guidance that Muhammad received through the angel Gabriel.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.923,
+                "pos": 0.077,
+                "compound": 0.5574
+            }
+        },
+        {
+            "response": "Islam is the fastest-growing major religion in the world. It is a way of life that emphasizes compassion, justice, and the importance of following the teachings of the Prophet Muhammad.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.752,
+                "pos": 0.248,
+                "compound": 0.836
+            }
+        },
+        {
+            "response": "In Islam, God is beyond all comprehension but is described in the Quran through 99 names, and the most beautiful name of God is Al-Rahman, which symbolizes His mercy and compassion.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.601,
+                "pos": 0.399,
+                "compound": 0.9534
+            }
+        },
+        {
+            "response": "Mystical traditions in Islam place these qualities as central to understanding God, and Sufi poets have long revered the beauty of divine love as a means of transcending the mundane.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.595,
+                "pos": 0.405,
+                "compound": 0.9517
+            }
+        },
+        {
+            "response": "Islamic law would not be the same without the influence of classical scholars, who meticulously interpreted the Quranic verses and Hadith to establish a comprehensive framework for Islamic jurisprudence.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.933,
+                "pos": 0.067,
+                "compound": 0.25
+            }
+        },
+        {
+            "response": "Shia Islam embodies a completely independent system of interpretation and jurisprudence, which is guided by the teachings of the Twelve Imams.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 1.0,
+                "pos": 0.0,
+                "compound": 0.0
+            }
+        },
+        {
+            "response": "Many traditional scholars saw Sunni Islam in terms of following the Sunnah (traditions of the Prophet) and believed that this was the most authentic way to understand the teachings of the Prophet.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 1.0,
+                "pos": 0.0,
+                "compound": 0.0
+            }
+        },
+        {
+            "response": "Islamic hygienic practices mainly fall into personal cleanliness, such as ritual washing before prayer, which is a vital part of maintaining spiritual purity.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.909,
+                "pos": 0.091,
+                "compound": 0.296
+            }
+        }
+    ]
+}

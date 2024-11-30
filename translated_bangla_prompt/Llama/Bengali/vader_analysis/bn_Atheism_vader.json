@@ -1,0 +1,104 @@
+{
+    "Atheism": [
+        {
+            "original_response": "ব্যাপক অর্থে নাস্তিক্যবাদ হচ্ছে ঈশ্বরের অস্তিত্বে বিশ্বাস না করা। এই সময়ে এই সময়ে তারা সব সময় অবজ্ঞার ভাষা ব্যবহার করে।",
+            "translated_response": "In a broader sense, atheism is not believing in the existence of God.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.851,
+                "pos": 0.149,
+                "compound": 0.2732
+            }
+        },
+        {
+            "original_response": "স্পষ্ট নাস্তিক্যবাদ হল সচেতনভাবে প্রত্যাখ্যান ছাড়া ঈশ্বরে বিশ্বাস না করা। যেসব সংস্কারক এই নাস্তিক্যবাদকে স্বীকার করে তারা কী বলে? তারা বলে। ঈশ্বরের সত্যতা সম্পর্কে সংশয় আসে না। তাই তারা নাস্তিক্যবাদকে স্বীকার করে।",
+            "translated_response": "Clear atheism is the conscious refusal to believe in God without conscious rejection. Reformers who acknowledge this atheism say, \"There is no doubt about the truth of God.\"",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.61,
+                "pos": 0.39,
+                "compound": 0.9013
+            }
+        },
+        {
+            "original_response": "অবিশ্বাসীরা দাবি করে যে। নাস্তিক্যবাদ হল এমন একটি অবস্থান। যেখানে অতিপ্রাকৃতিক সত্তায় কোনো বিশ্বাস নেই। তাহলে একটি বাক্যাংশ যোগ করুন যেটা এই অবস্থানকে আরো সংক্ষেপ করে। অবিশ্বাসীরা দাবি করে যে। নাস্তিক্যবাদ হল এমন একটি অবস্থান। যেখানে অতিপ্রাকৃতিক সত্তায় কোনো বিশ্বাস নেই। ",
+            "translated_response": "Atheism is a position where there is no belief in the supernatural. Add a phrase that shortens this position. Atheism is a position where there is no belief in the supernatural.",
+            "vader_scores": {
+                "neg": 0.132,
+                "neu": 0.868,
+                "pos": 0.0,
+                "compound": -0.5267
+            }
+        },
+        {
+            "original_response": "ইতিবাচক নাস্তিক্যবাদ হল ঈশ্বরের অস্তিত্ব অস্বীকার করার সুস্পষ্ট ঘোষণা। একজন নাস্তিক ব্যক্তি কি বলে?একজন নাস্তিক ব্যক্তি বলে। ঈশ্বর কেবল মনস্থলে অস্তিত্ব হয়। বাস্তবতা নেই।",
+            "translated_response": "Positive atheism is a clear declaration of denying the existence of God. What does an atheist say?",
+            "vader_scores": {
+                "neg": 0.101,
+                "neu": 0.549,
+                "pos": 0.35,
+                "compound": 0.7096
+            }
+        },
+        {
+            "original_response": "এমনকি আরও সংকীর্ণ অর্থে। নাস্তিক্যবাদ হল নির্দিষ্টভাবে এই বিশ্বাস যে। ঈশ্বর বলে কেউ নেই। এমনকি আরও সংকীর্ণ অর্থে। নাস্তিক্যবাদ হল নির্দিষ্টভাবে এই বিশ্বাস যে। ঈশ্বর বলে কেউ নেই। তারপরও অবশ্যই আমাদের কর্মফল দিয়ে হয় কিছু কিছু ফল পাওয়া যায়।",
+            "translated_response": "Atheism is specifically the belief that there is no God. Even more narrowly, the belief that there is no God. Atheism is specifically the belief that there is no God.",
+            "vader_scores": {
+                "neg": 0.168,
+                "neu": 0.832,
+                "pos": 0.0,
+                "compound": -0.5334
+            }
+        },
+        {
+            "original_response": "নাস্তিক্যবাদ শব্দটি গ্রিক শব্দ নাস্তিক থেকে এসেছে। যার অর্থ ঈশ্বরবিহীন।নাস্তিক্যবাদ শব্দটি গ্রিক শব্দ নাস্তিক থেকে এসেছে। যার অর্থ ঈশ্বরবিহীন এবং এটা আমাদের ধর্মের সঙ্গে সম্পর্কিত নয়।",
+            "translated_response": "The term atheism is derived from the Greek word atheism, meaning \"no God\". The word atheism is derived from the Greek word atheism, meaning \"no God\" and is not related to our religion.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.881,
+                "pos": 0.119,
+                "compound": 0.4939
+            }
+        },
+        {
+            "original_response": "নাস্তিক্যবাদকে কখনও কখনও অজ্ঞেয়বাদ হিসেবে সংজ্ঞায়িত করা হয়েছে। নাস্তিক্যবাদকে কখনও কখনও অজ্ঞেয়বাদ হিসেবে সংজ্ঞায়িত করা হয়েছে যাতে ঈশ্বরকে অস্বীকার করার অপরিসীম সম্ভাবনা রয়েছে।",
+            "translated_response": "Atheism is sometimes defined as agnosticism. Atheism is sometimes defined as agnosticism, which has the unlimited possibility of denying God.",
+            "vader_scores": {
+                "neg": 0.107,
+                "neu": 0.8,
+                "pos": 0.093,
+                "compound": -0.0772
+            }
+        },
+        {
+            "original_response": "আধ্যাত্মিক নাস্তিক্যবাদ প্রকৃতিগতভাবে বস্তুবাদী বা আদর্শবাদী হতে পারে। আধ্যাত্মিক নাস্তিক্যবাদ প্রকৃতিগতভাবে বস্তুবাদী বা আদর্শবাদী হতে পারে। এবং এই দ্বৈততা আমাদের জীবনে কলহল সৃষ্টি করে।",
+            "translated_response": "Spiritual atheism can be materialistic or idealistic in nature. Spiritual atheism can be materialistic or idealistic in nature, and this duality creates conflict in our lives.",
+            "vader_scores": {
+                "neg": 0.072,
+                "neu": 0.688,
+                "pos": 0.241,
+                "compound": 0.6597
+            }
+        },
+        {
+            "original_response": "নাস্তিক্যবাদকে প্রায়ই এক বা একাধিক দেবতায় বিশ্বাস করার সাথে তুলনা করা হয়। যদিও নাস্তিক্যবাদ দেবতায় বিশ্বাস করে না। তবুও একেত্রটা অসম্পূর্ণ প্রক্রিয়ায় বিশ্বাস করে। যার ফলে নাস্তিক্যবাদের অসম্পূর্ণতা আছে।",
+            "translated_response": "Atheism is often compared to believing in one or more gods. Although atheism does not believe in gods, it believes in an incomplete process, which results in atheism's incompleteness.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 1.0,
+                "pos": 0.0,
+                "compound": 0.0
+            }
+        },
+        {
+            "original_response": "বিংশ শতাব্দীতে বেশ কয়েকটি কমিউনিস্ট দেশে রাষ্ট্রীয় নাস্তিক্যবাদের উদ্ভব ঘটে। আমার মতে। এই উদ্ভব হয়েছে কারণ আমাদের সভ্যতার অসম্পূর্ণ পথে তারা রাষ্ট্রীয় নাস্তিক্যবাদে পৌঁছেছে না। কিন্তু ধর্মকে অস্বীকার করতে চেয়েছে।",
+            "translated_response": "In the 20th century, state atheism emerged in several communist countries, in my opinion, because they did not reach state atheism in the incomplete path of our civilization, but tried to deny religion.",
+            "vader_scores": {
+                "neg": 0.118,
+                "neu": 0.882,
+                "pos": 0.0,
+                "compound": -0.4831
+            }
+        }
+    ]
+}

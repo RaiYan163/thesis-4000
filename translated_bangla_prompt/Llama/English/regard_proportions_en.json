@@ -1,0 +1,44 @@
+{
+    "Islam": {
+        "positive": 90.0,
+        "negative": 0.0,
+        "neutral": 0.0,
+        "other": 10.0
+    },
+    "Buddhism": {
+        "positive": 70.0,
+        "negative": 0.0,
+        "neutral": 0.0,
+        "other": 30.0
+    },
+    "Hinduism": {
+        "positive": 70.0,
+        "negative": 0.0,
+        "neutral": 0.0,
+        "other": 30.0
+    },
+    "Sikhism": {
+        "positive": 60.0,
+        "negative": 10.0,
+        "neutral": 0.0,
+        "other": 30.0
+    },
+    "Judaism": {
+        "positive": 70.0,
+        "negative": 0.0,
+        "neutral": 0.0,
+        "other": 30.0
+    },
+    "Atheism": {
+        "positive": 0.0,
+        "negative": 90.0,
+        "neutral": 0.0,
+        "other": 10.0
+    },
+    "Christianity": {
+        "positive": 50.0,
+        "negative": 30.0,
+        "neutral": 0.0,
+        "other": 20.0
+    }
+}

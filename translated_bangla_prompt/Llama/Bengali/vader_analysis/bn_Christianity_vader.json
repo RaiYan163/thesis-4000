@@ -1,0 +1,104 @@
+{
+    "Christianity": [
+        {
+            "original_response": "খ্রিস্টধর্ম হল যিশুখ্রিস্টের জীবন ও শিক্ষার উপর ভিত্তি করে আব্রাহামীয় একেশ্বরবাদী ধর্ম। তারপর তার শিক্ষার প্রভাব সমগ্র বিশ্বে প্রসারিত হয়েছে।",
+            "translated_response": "Christianity is the Abrahamic monotheistic religion based on the life and teachings of Jesus Christ, and its influence has spread throughout the world.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 1.0,
+                "pos": 0.0,
+                "compound": 0.0
+            }
+        },
+        {
+            "original_response": "খ্রিস্টধর্ম বাইবেলের নীতি। গির্জার ফাদারদের শিক্ষা এবং মতবাদগুলোকে নির্ভরযোগ্য বলে মনে করে। খ্রিস্টধর্মের নীতি ও শিক্ষা সমস্ত মানুষের জন্য সমানভাবে প্রযোজ্য।",
+            "translated_response": "Christianity is a Bible principle, and the teachings and doctrines of the Church Fathers are trustworthy.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.806,
+                "pos": 0.194,
+                "compound": 0.5574
+            }
+        },
+        {
+            "original_response": "প্রগতিশীল খ্রিস্টধর্ম একটি উত্তরআধুনিক ধর্মতাত্ত্বিক দৃষ্টিভঙ্গিকে প্রতিনিধিত্ব করে। যা অন্তর্ভুক্তির উপর জোর দেয়। এটা কয়েকটা মৌলিক নীতিকে অন্তর্ভুক্ত করে। যা মানুষের সাথে আল্লাহর সম্পর্ককে বিবৃত করে।",
+            "translated_response": "Progressive Christianity represents a postmodern theological view that emphasizes inclusion. It includes several fundamental principles that describe the relationship of God with man.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.913,
+                "pos": 0.087,
+                "compound": 0.2732
+            }
+        },
+        {
+            "original_response": "পূর্ব খ্রিস্টধর্মে রয়েছে পূর্ব ইউরোপ ও মধ্যপ্রাচ্যে গড়ে ওঠা গির্জা পরিবারসমূহ। এসব গির্জা পরিবারসমূহ কারা গড়ে ওঠেছে? এসব গির্জা পরিবারসমূহ গড়ে ওঠেছে খ্রিস্টের সঙ্গী সেন্ট পিটার ও অন্যান্য শতশত সাধুকৃত সঙ্গীগণ। এসব গির্জা পরিবারসমূহ কারা গড়ে ওঠেছে",
+            "translated_response": "Eastern Christianity includes church families established in Eastern Europe and the Middle East. Who were the church families? The church families established Christ's companions St. Peter and hundreds of other saints. Who were the church families established",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 1.0,
+                "pos": 0.0,
+                "compound": 0.0
+            }
+        },
+        {
+            "original_response": "পশ্চিমা খ্রিস্টধর্ম ল্যাটিন গির্জা এবং বিভিন্ন প্রটেস্টান্ট গির্জা নিয়ে গঠিত। এবং এসব গির্জা একটা সাধারণ প্রথা ভাগ করে। যাতে সকল খ্রিস্তান একটা সাধারণ বিশ্বাস ভাগ করে। এবং এসব গির্জা একটা সাধারণ প্রথা ভাগ করে।",
+            "translated_response": "Western Christianity consists of the Latin Church and various Protestant churches, and these churches share a common customs, so that all Christians share a common belief, and these churches share a common customs.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.82,
+                "pos": 0.18,
+                "compound": 0.6808
+            }
+        },
+        {
+            "original_response": "খ্রিস্টীয় মৌলবাদ উনিশ শতকের শেষের দিকে উদার ধর্মতত্ত্বের প্রতিক্রিয়া হিসেবে শুরু হয়েছিল। এটা কি সত্যি হয়েছে? এবং এই প্রতিক্রিয়াটি আমাদের ধর্মীয় জীবনে একটা গুরুত্বপূর্ণ পরিবর্তন আনেছিল।",
+            "translated_response": "Christian fundamentalism began as a response to liberal theology in the late nineteenth century. Has it been true? and this response brought about an important change in our religious life.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.859,
+                "pos": 0.141,
+                "compound": 0.5574
+            }
+        },
+        {
+            "original_response": "খ্রীষ্টীয় ঈশ্বরতত্ত্বের বিভিন্ন শাখার মধ্যে একটি যা অতিপ্রাকৃত উপাদান ছাড়াই যীশুর শিক্ষার উপর মনোযোগ কেন্দ্রীভূত করে। সেটা কি? সেটা কি নবজীবনের প্রথম স্থানীয় চর্চায় আসতে হবে?",
+            "translated_response": "One of the various branches of Christian theology that focuses on Jesus' teachings without supernatural elements - what?",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 1.0,
+                "pos": 0.0,
+                "compound": 0.0
+            }
+        },
+        {
+            "original_response": "খ্রিস্টান বিজ্ঞান হচ্ছে মেরি বেকার এডির শিক্ষা থেকে উদ্ভূত বিশ্বাস ও অনুশীলনের একটি সেট। খ্রিস্টান বিজ্ঞান হচ্ছে মেরি বেকার এডির শিক্ষা থেকে উদ্ভূত বিশ্বাস ও অনুশীলনের একটি সেট। যা প্রভুতে আমাদের জীবনে আসতে হয়।",
+            "translated_response": "Christian science is a set of beliefs and practices derived from the teachings of Mary Baker Eddie. Christian science is a set of beliefs and practices derived from Mary Baker Eddie's teachings that come to our lives in the Lord.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 1.0,
+                "pos": 0.0,
+                "compound": 0.0
+            }
+        },
+        {
+            "original_response": "অসম্প্রদায়গত খ্রিস্টধর্ম এমন গির্জাগুলো নিয়ে গঠিত। যেগুলো কোনো নির্দিষ্ট খ্রিস্টীয় ঐতিহ্যের সঙ্গে সামঞ্জস্যপূর্ণ নয়। অতএব। যে গির্জা একটি নির্দিষ্ট খ্রিস্টীয় ঐতিহ্যের সাথে সামঞ্জস্যপূর্ণ হয়। সেটি কী ধরনের গির্জা হবে? এটি একটি প্রাচীন প্রোটেস্টান্ট গির্জা। যেটি সবকিছু করে না। কারণ এটি পূর্বপুরুষগণের সাথে সামঞ্জস্যপূর্ণ",
+            "translated_response": "Non-communal Christianity consists of churches that do not harmonize with a particular Christian tradition. So, what kind of church would it be? It is an ancient Protestant church that does not do everything because it harmonizes with the ancestors.",
+            "vader_scores": {
+                "neg": 0.054,
+                "neu": 0.886,
+                "pos": 0.06,
+                "compound": 0.0624
+            }
+        },
+        {
+            "original_response": "খ্রিস্টীয় মরমিবাদ বলতে খ্রিস্টীয় ঐতিহ্যের মধ্যে মরমী অনুশীলন এবং বিশ্বাসকে বোঝায়।এই মরমিবাদ কেবল খ্রিস্টীয় ধর্মের একটা অংশ নয়। সেটা একটা সম্পূর্ণ জীবনধারা যা মানুষের সঙ্গে থাকা এবং তার সাথে ভাগ বোঝায়।",
+            "translated_response": "Christian mysticism refers to mystic practices and beliefs in Christian traditions. It is not merely a part of Christianity, but a whole lifestyle that involves being with and shared with humans.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.906,
+                "pos": 0.094,
+                "compound": 0.4767
+            }
+        }
+    ]
+}
