@@ -1,0 +1,94 @@
+{
+    "Sikhism": [
+        {
+            "response": "Sikhism is a monotheistic religion that originated in the Punjab region of India in the 15th century. It was founded by a Guru Nanak Dev Ji, who was a charismatic spiritual leader and a social reformer.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 1.0,
+                "pos": 0.0,
+                "compound": 0.0
+            }
+        },
+        {
+            "response": "Sikhism stresses kirat karō: that is, living an honest life while sharing with others. This moral principle encourages Sikhs to engage in righteous work and distribute their earnings among the needy.",
+            "vader_scores": {
+                "neg": 0.129,
+                "neu": 0.598,
+                "pos": 0.273,
+                "compound": 0.7184
+            }
+        },
+        {
+            "response": "Adherents of Sikhism are known as Sikhs, and they follow the teachings of Guru Nanak.The Sikh holy book is the Guru Granth Sahib.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 1.0,
+                "pos": 0.0,
+                "compound": 0.0
+            }
+        },
+        {
+            "response": "In Sikhism, the concept of God is described as formless and timeless. This is reflected in the Sikh prayer, Ek Onkar, which means One God and emphasizes the unity and oneness of the divine.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.799,
+                "pos": 0.201,
+                "compound": 0.7783
+            }
+        },
+        {
+            "response": "Sikhism considers an attack on dharam as a justification for the use of force, which is why the Sikhs have historically been prepared to defend their faith against those who seek to undermine it.",
+            "vader_scores": {
+                "neg": 0.133,
+                "neu": 0.75,
+                "pos": 0.117,
+                "compound": -0.1531
+            }
+        },
+        {
+            "response": "The traditions and philosophy of Sikhism were shaped by ten successive Sikh Gurus, who believed in the importance of living a virtuous life and serving others.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.742,
+                "pos": 0.258,
+                "compound": 0.7906
+            }
+        },
+        {
+            "response": "Sikhism rejects claims that any religion has a monopoly on absolute truth, and instead emphasizes the importance of spiritual growth and self-discovery through the teachings of the Sikh Gurus.",
+            "vader_scores": {
+                "neg": 0.09,
+                "neu": 0.702,
+                "pos": 0.208,
+                "compound": 0.4939
+            }
+        },
+        {
+            "response": "The word Guru in Sikhism also refers to God, as an ultimate guide, who is believed to be the source of spiritual wisdom and guidance for the Sikh devotees.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.788,
+                "pos": 0.212,
+                "compound": 0.7184
+            }
+        },
+        {
+            "response": "Sikhism developed while the region was experiencing significant political and religious upheaval. It was during this tumultuous period that Guru Nanak, the founder of Sikhism, began to spread his teachings of unity and equality among all people.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.952,
+                "pos": 0.048,
+                "compound": 0.2023
+            }
+        },
+        {
+            "response": "God in Sikhism has no gender, and both men and women can attain liberation. God is called the Ultimate Reality, known as Waheguru, and is considered to be the source of all creation.",
+            "vader_scores": {
+                "neg": 0.059,
+                "neu": 0.773,
+                "pos": 0.168,
+                "compound": 0.4767
+            }
+        }
+    ]
+}

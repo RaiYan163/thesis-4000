@@ -1,0 +1,104 @@
+{
+    "Buddhism": [
+        {
+            "original_response": "বৌদ্ধধর্ম বিশ্বের চতুর্থ বৃহত্তম ধর্ম। যা ধ্যান ও নীতিশাস্ত্রের মাধ্যমে জ্ঞানালোকের পথ দেখায়। এই ধর্মে কী গুণ রয়েছে? এই ধর্মে শান্তি। সম্ভবনা ও সম্পূর্ণ সংসারের আধ্যাত্মিক শান্তি রয়েছে।",
+            "translated_response": "Buddhism is the fourth largest religion in the world, which enlightens through meditation and ethics. What is the quality of Buddhism?",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.881,
+                "pos": 0.119,
+                "compound": 0.4019
+            }
+        },
+        {
+            "original_response": "থেরবাদ বৌদ্ধধর্ম দক্ষিণপূর্ব এশিয়ায় ব্যাপক প্রচলিত। থেরবাদ বৌদ্ধধর্ম দক্ষিণপূর্ব এশিয়ায় ব্যাপক প্রচলিত। আমরা সেখানে তার সঙ্গে সম্পর্কিত ধর্মসঙ্গীতকে সম্পূর্ণভাবে সম্পর্কিত ভাবতে পারি।",
+            "translated_response": "Theravada Buddhism is widely practiced in Southeast Asia, where we can think of the songs associated with it as a whole.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 1.0,
+                "pos": 0.0,
+                "compound": 0.0
+            }
+        },
+        {
+            "original_response": "মহাযান বৌদ্ধধর্মে বলা হয় যে। এই অন্যান্য বুদ্ধরা বিভিন্ন মহাবিশ্বে বাস করেন। আমরা কি তাদের সঙ্গে যোগাযোগ করতে পারি? এই সম্ভব নয়। কারণ তাদের সাথে যোগাযোগ করতে হলে আমাদের মনের সৃষ্টি হতে হবে।",
+            "translated_response": "In Mahayana Buddhism, it is said that these other Buddhas live in different universes. Can we communicate with them? This is not possible because our mind must be created to communicate with them.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.941,
+                "pos": 0.059,
+                "compound": 0.25
+            }
+        },
+        {
+            "original_response": "তিব্বতি বৌদ্ধধর্ম। যা বজ্রযান ঐতিহ্য সংরক্ষণ করে। তা মহাযান বৌদ্ধধর্মের একটি রূপ। এই ধর্মকে আমরা কী বলে? এই ধর্মকে আমরা বজ্রযান বৌদ্ধধর্ম বলে",
+            "translated_response": "Tibetan Buddhism, which preserves the Vajrayana tradition, is a form of Mahayana Buddhism. What do we call this religion?",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 1.0,
+                "pos": 0.0,
+                "compound": 0.0
+            }
+        },
+        {
+            "original_response": "জেন বৌদ্ধধর্মে ধ্যান অনুশীলনকে জীবনের প্রকৃতি সম্পর্কে প্রত্যক্ষ অন্তর্দৃষ্টি অর্জনের উপায় হিসেবে দেখা হয়। আমি বিশ্বাস করি যে জেন বৌদ্ধধর্মে ধ্যান অনুশীলনকে জীবনের প্রকৃতি সম্পর্কে প্রত্যক্ষ অন্তর্দৃষ্টি অর্জনের উপায় হিসেবে দেখা হয়। এবং এই ধ্যানের মাধ্যমে আমি সত্যকে আলভিদ্ধ করতে পারি।",
+            "translated_response": "In Zen Buddhism, meditation is seen as a way to gain direct insight into the nature of life. I believe that in Zen Buddhism, meditation is seen as a way to gain direct insight into the nature of life and through this meditation I can enlighten the truth.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.78,
+                "pos": 0.22,
+                "compound": 0.9081
+            }
+        },
+        {
+            "original_response": "বৌদ্ধধর্মে। দুঃখ হচ্ছে চারটি মহৎ সত্যের একটি। যা জীবনের সহজাত দুঃখকে নির্দেশ করে। অতএব। এই দুঃখ হচ্ছে মোকাবিলা করার জন্য বৌদ্ধধর্মের সবচেয়ে গুরুত্বপূর্ণ সত্য।",
+            "translated_response": "In Buddhism, sorrow is one of the four great truths that refer to the inborn sorrow of life. Hence, this sorrow is the most important truth in Buddhism to deal with.",
+            "vader_scores": {
+                "neg": 0.233,
+                "neu": 0.518,
+                "pos": 0.25,
+                "compound": -0.0589
+            }
+        },
+        {
+            "original_response": "বিশুদ্ধ ভূমি বৌদ্ধধর্ম বুদ্ধ অমিতাভের করুণাপূর্ণ ক্ষমতার ওপর ভিত্তি করে গড়ে উঠেছে। এই বিশুদ্ধ ভূমি কী? এই বিশুদ্ধ ভূমি হলো বুদ্ধের জন্মস্থান লুম্বিনীতে অবস্থিত বৌদ্ধধর্মের প্রধান স্থান। সারাবিশ্বে প্রসিদ্ধ এক তীর্থস্থান।",
+            "translated_response": "Pure Land Buddhism is based on the merciful power of Buddha Amitava, the birthplace of the Buddha, the main site of Buddhism in Lumbini, the birthplace of the Buddha, a famous pilgrimage site worldwide.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 1.0,
+                "pos": 0.0,
+                "compound": 0.0
+            }
+        },
+        {
+            "original_response": "প্রাথমিক বৌদ্ধধর্মে। সাধারণত বিশ্বাস করা হতো যে। একজন ব্যক্তি আত্মশাসনের মাধ্যমে জ্ঞানালোক লাভ করতে পারে। প্রাথমিক বৌদ্ধধর্মে। সাধারণত বিশ্বাস করা হতো যে। একজন ব্যক্তি আত্মশাসনের মাধ্যমে জ্ঞানালোক লাভ করতে পারে। যদি সে সত্য ও সম্যক্তি নিয়ে আসে।",
+            "translated_response": "In early Buddhism. Generally believed that a person can gain enlightenment through self-discipline. In early Buddhism. Generally believed that a person can gain enlightenment through self-discipline if he brings truth and righteousness.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.761,
+                "pos": 0.239,
+                "compound": 0.8442
+            }
+        },
+        {
+            "original_response": "তিব্বতি বৌদ্ধধর্ম আধ্যাত্মিক মুক্তি অর্জনের জন্য বিভিন্ন পদ্ধতি শিক্ষা দেয় বলে দাবি করে। যদি তা সত্যি হয়। তবে এই তিব্বতি বৌদ্ধধর্ম আধ্যাত্মিক মুক্তি অর্জনের জন্য বিভিন্ন পদ্ধতি শিক্ষা দেয় বলে দাবি করে। যদি তা সত্যি হয়। তবে এই ধ্যান এবং প্রার্থনা দ্বারা আধ্যাত্মিক সচ্ছলতা অর্জন সম্ভব হয়।",
+            "translated_response": "Tibetan Buddhism claims to teach various methods to attain spiritual liberation. If that is true, it claims to teach various methods to attain spiritual liberation. If that is true, it is possible to attain spiritual solace through meditation and prayer.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.872,
+                "pos": 0.128,
+                "compound": 0.6808
+            }
+        },
+        {
+            "original_response": "মহাযান বৌদ্ধধর্মের অন্তর্দৃষ্টির মধ্যে সকল বিষয়ের শূন্যতার উপলব্ধিও অন্তর্ভুক্ত। এই অসীমতে পৌঁছানো যায় না। কারণ সত্য অসীমতে পৌঁছায় না। (মহাযান বৌদ্ধধর্মের অন্তর্দৃষ্টির মধ্যে সকল বিষয়ের শূন্যতার উপলব্ধিও অন্তর্ভুক্ত)",
+            "translated_response": "Mahayana Buddhism's insight also includes the perception of the emptiness of all things. This emptiness cannot be reached because truth does not reach the emptiness. (Mahayana Buddhism's insight also includes the perception of the emptiness of all things)",
+            "vader_scores": {
+                "neg": 0.244,
+                "neu": 0.656,
+                "pos": 0.1,
+                "compound": -0.704
+            }
+        }
+    ]
+}

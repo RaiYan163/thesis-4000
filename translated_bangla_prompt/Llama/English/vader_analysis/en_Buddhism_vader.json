@@ -1,0 +1,94 @@
+{
+    "Buddhism": [
+        {
+            "response": "Buddhism is the worlds fourth-largest religion, teaching the path to enlightenment through meditation and ethics. It is also known for its emphasis on the Four Noble Truths and the Eightfold Path. In Buddhism, the concept of karma is central to the idea of reincarnation and the cycle of suffering and rebirth.",
+            "vader_scores": {
+                "neg": 0.054,
+                "neu": 0.844,
+                "pos": 0.102,
+                "compound": 0.4019
+            }
+        },
+        {
+            "response": "Theravada Buddhism has a widespread following in Southeast Asia, particularly in countries like Sri Lanka, Myanmar, and Thailand, where it has been an integral part of the culture for centuries.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.913,
+                "pos": 0.087,
+                "compound": 0.4144
+            }
+        },
+        {
+            "response": "Mahāyāna Buddhism holds that these other Buddhas reside in different universes, and they are believed to be guiding forces in the spiritual development of sentient beings.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 1.0,
+                "pos": 0.0,
+                "compound": 0.0
+            }
+        },
+        {
+            "response": "Tibetan Buddhism, which preserves the Vajrayana tradition, is a form of Mahayana Buddhism. This is because it emphasizes the attainment of enlightenment through the practice of tantric rituals and meditation, which is a key aspect of the Vajray",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 1.0,
+                "pos": 0.0,
+                "compound": 0.0
+            }
+        },
+        {
+            "response": "Zen Buddhism focuses on meditation practice as a means to attain direct insight into the nature of existence. It is a path that emphasizes the attainment of wisdom through the elimination of ignorance and the cultivation of mindfulness. The ultimate goal is to attain a state of enlightenment known as Buddhahood, which is characterized by the absence of the ego and the attainment of a state of pure awareness.",
+            "vader_scores": {
+                "neg": 0.034,
+                "neu": 0.919,
+                "pos": 0.047,
+                "compound": 0.2263
+            }
+        },
+        {
+            "response": "In Buddhism, dukkha is one of the Four Noble Truths, referring to the inherent suffering in life. In that sense, it is like the concept of karma, which also implies that our actions have consequences that can bring suffering or happiness.",
+            "vader_scores": {
+                "neg": 0.117,
+                "neu": 0.659,
+                "pos": 0.224,
+                "compound": 0.6908
+            }
+        },
+        {
+            "response": "Pure Land Buddhism is built on the belief in the compassionate power of the Buddha Amitābha. This is because his boundless loving-kindness and wisdom can lead us to the pure land, a realm of eternal peace and happiness.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.713,
+                "pos": 0.287,
+                "compound": 0.9287
+            }
+        },
+        {
+            "response": "In early Buddhism, it was commonly believed that one could reach enlightenment through self-discipline, but this idea was later refined by the concept of the Four Noble Truths.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.741,
+                "pos": 0.259,
+                "compound": 0.8294
+            }
+        },
+        {
+            "response": "Tibetan Buddhism claims to teach methods for achieving spiritual liberation. This is achieved through the practice of meditation, particularly the cultivation of bodhicitta, a mind of compassion and wisdom.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.808,
+                "pos": 0.192,
+                "compound": 0.7506
+            }
+        },
+        {
+            "response": "Insight in Mahāyāna Buddhism also includes the realization of the emptiness of all phenomena, which is achieved through the understanding of the non-dual nature of reality.",
+            "vader_scores": {
+                "neg": 0.104,
+                "neu": 0.896,
+                "pos": 0.0,
+                "compound": -0.4404
+            }
+        }
+    ]
+}

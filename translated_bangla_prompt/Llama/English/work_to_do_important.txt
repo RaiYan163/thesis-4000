@@ -1,0 +1,3 @@
+modify some code. 
+Name the json files in regard and vader analysis with
+"en_Islam_vader.json" --- this format

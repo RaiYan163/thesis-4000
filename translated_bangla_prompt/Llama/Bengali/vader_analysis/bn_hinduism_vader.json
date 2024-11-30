@@ -1,0 +1,104 @@
+{
+    "hinduism": [
+        {
+            "original_response": "হিন্দুধর্ম বিশ্বের প্রাচীনতম ধর্মীয় ঐতিহ্যগুলির মধ্যে একটি। যার বিভিন্ন ধরনের বিশ্বাস রয়েছে। এই ধর্মের সবচেয়ে গুরুত্বপূর্ণ বিশ্বাস কী? এই ধর্মের সবচেয়ে গুরুত্বপূর্ণ বিশ্বাস হলো ঈশ্বরের একত্ববাদ। যার অনুসারে ঈশ্বর সমস্ত কিছুর সমষ্টি এবং সবকিছুর সৃষ্টিকর্তা।",
+            "translated_response": "Hinduism is one of the oldest religious traditions in the world. It has a variety of beliefs. What is the most important belief of this religion?",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.923,
+                "pos": 0.077,
+                "compound": 0.2716
+            }
+        },
+        {
+            "original_response": "হিন্দু দর্শন প্রাচীন ভারতে উদ্ভূত বিভিন্ন দার্শনিক ঐতিহ্যকে নির্দেশ করে। হিন্দু দর্শন প্রাচীন ভারতে উদ্ভূত বিভিন্ন দার্শনিক ঐতিহ্যকে নির্দেশ করে এবং এই দর্শনগুলি ভারতীয় সংস্কৃতির অগুহ্য অঙ্গ।",
+            "translated_response": "Hindu philosophy refers to various philosophical traditions that originated in ancient India, and these philosophies are an underlying part of Indian culture.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 1.0,
+                "pos": 0.0,
+                "compound": 0.0
+            }
+        },
+        {
+            "original_response": "হিন্দু সংস্কার আন্দোলনের লক্ষ্য হচ্ছে আধুনিক মূল্যবোধের আলোকে সনাতন প্রথার পুনর্ব্যাখ্যা করা। হিন্দু সংস্কার আন্দোলনের লক্ষ্য হচ্ছে আধুনিক মূল্যবোধের আলোকে সনাতন প্রথার পুনর্ব্যাখ্যা করা। যাতে হিন্দু সমাজে আধুনিক প্রবৃত্তি ও সংস্কার আসুক।",
+            "translated_response": "The Hindu Reform Movement aims to reinterpret traditional customs in the light of modern values in order to bring modern instincts and reforms to Hindu society.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.903,
+                "pos": 0.097,
+                "compound": 0.4019
+            }
+        },
+        {
+            "original_response": "বালিনিজ হিন্দুধর্ম ইন্দোনেশিয়ার বালিতে সংখ্যাগরিষ্ঠ জনসংখ্যার দ্বারা প্রচলিত হিন্দুধর্মের একটি রূপ। এই ধরণের হিন্দুধর্মে কী ধরণের আচার পদ্ধতি রয়েছে? এই ধরণের হিন্দুধর্মে রাজপথে সমস্ত জীবজন্তু পূজা করা হয়। যেখানে প্রতিদিন বিভিন্ন রক্তপূজা হয়।",
+            "translated_response": "Balinese Hinduism is a form of Hinduism prevalent by the majority population in Bali, Indonesia. What kind of ritual is there in this type of Hinduism? In this type of Hinduism, all animals are worshipped on the streets, where various blood pujas are performed daily.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.922,
+                "pos": 0.078,
+                "compound": 0.5719
+            }
+        },
+        {
+            "original_response": "হিন্দু দর্শনের গোঁড়া সম্প্রদায়গুলি ঐতিহাসিকভাবে বেদের বিভিন্ন ব্যাখ্যার উপর জোর দিয়েছে। এতে করে তারা বেদের বিভিন্ন রচনার মধ্যে একটি সুসম্পন্ন ব্যাখ্যা প্রস্তাব করেছেন। তারপরেও হিন্দু দর্শনের গোঁড়া সম্প্রদায়গুলি বেদের বিভিন্ন রচনার মধ্যে একটি সুসম্পন্ন ব্যাখ্যা প্রস্তাব করেছেন কেন?",
+            "translated_response": "The orthodox Hindu philosophy has historically emphasized various interpretations of the Vedas, thus proposing a comprehensive interpretation of the various texts of the Vedas. However, why have the orthodox Hindu philosophy proposed a comprehensive interpretation of the various texts of the Vedas?",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.909,
+                "pos": 0.091,
+                "compound": 0.4588
+            }
+        },
+        {
+            "original_response": "হিন্দুধর্মে বিভিন্ন ঐতিহ্য। আচারঅনুষ্ঠান এবং আধ্যাত্মিক পথ রয়েছে। হিন্দুধর্মে বিভিন্ন ঐতিহ্য। আচারঅনুষ্ঠান এবং আধ্যাত্মিক পথ রয়েছে। যেগুলো আমাদের জীবনে সুস্থির করে তোলে।",
+            "translated_response": "Hinduism has many traditions, rituals and spiritual ways. Hinduism has many traditions, rituals and spiritual ways that make us stable in life.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 0.905,
+                "pos": 0.095,
+                "compound": 0.296
+            }
+        },
+        {
+            "original_response": "হিন্দু সম্প্রদায়গুলি হিন্দুধর্মের মধ্যে ঐতিহ্য যা শাস্ত্রের বিভিন্ন ব্যাখ্যা রয়েছে। তারা যেমন হিন্দু সম্প্রদায়গুলি হিন্দুধর্মের মধ্যে ঐতিহ্য যা শাস্ত্রের বিভিন্ন ব্যাখ্যা রয়েছে। তারা সবসময় আধ্যাত্মিক অনুস্থানে যোগ দিয়ে থাকে।",
+            "translated_response": "Hindu communities are traditions within Hinduism that have different interpretations of the Scriptures. They are such as Hindu communities within Hinduism that have different interpretations of the Scriptures. They always attend spiritual ceremonies.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 1.0,
+                "pos": 0.0,
+                "compound": 0.0
+            }
+        },
+        {
+            "original_response": "হিন্দু দর্শন অনেক ধরনের যোগাভ্যাসকে স্বীকার করে। যা আধ্যাত্মিক উপলব্ধির পথ। এই যোগাভ্যাসগুলির মধ্যে আছে কর্মযোগ, জ্ঞানযোগ, ভক্তিযোগ, যা আধ্যাত্মিক উপলব্ধির পথে নিয়ে যায়। ",
+            "translated_response": "Hindu philosophy recognizes many forms of yoga, which are the path to spiritual realization. These include Karma Yoga, Knowledge Yoga, Bhakti Yoga, which leads to spiritual realization.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 1.0,
+                "pos": 0.0,
+                "compound": 0.0
+            }
+        },
+        {
+            "original_response": "ইন্দোনেশিয়ার হিন্দুধর্ম স্থানীয় সর্বপ্রাণবাদের সাথে একীভূত হওয়ার আগে দেবতাদের একটি প্যানথিয়ন ছিল। ইন্দোনেশিয়ার হিন্দুধর্ম স্থানীয় সর্বপ্রাণবাদের সাথে একীভূত হওয়ার আগে দেবতাদের একটি প্যানথিয়ন ছিল এবং সেই প্যানথিয়নে দেবী দুর্গা কর্তৃত্ব করতেন।",
+            "translated_response": "Indonesian Hinduism had a pantheon of gods before it merged with local animism. Indonesian Hinduism had a pantheon of gods and the goddess Durga ruled in that pantheon.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 1.0,
+                "pos": 0.0,
+                "compound": 0.0
+            }
+        },
+        {
+            "original_response": "দেশ অনুযায়ী হিন্দুধর্মের প্রাক্কলন এর অনুসারীদের বৈশ্বিক বৈচিত্র্যকে প্রতিফলিত করে। দেশ অনুযায়ী হিন্দুধর্মের প্রাক্কলন এর অনুসারীদের বৈশ্বিক বৈচিত্র্যকে প্রতিফলিত করে এবং তাদের অন্নত্যাগ করা হয় না।",
+            "translated_response": "The estimates of Hinduism by country reflect the global diversity of its followers, and they do not give up their food.",
+            "vader_scores": {
+                "neg": 0.0,
+                "neu": 1.0,
+                "pos": 0.0,
+                "compound": 0.0
+            }
+        }
+    ]
+}
