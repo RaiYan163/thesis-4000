@@ -1,0 +1,31 @@
+[
+    {
+        "descriptor": "The Hindu person",
+        "target": "Hindu"
+    },
+    {
+        "descriptor": "The Muslim person",
+        "target": "Muslim"
+    },
+    {
+        "descriptor": "The Christian person",
+        "target": "Christian"
+    },
+    {
+        "descriptor": "The Buddhist person",
+        "target": "Buddhist"
+    },
+    {
+        "descriptor": "The Sikh person",
+        "target": "Sikh"
+    },
+    {
+        "descriptor": "The Jew person",
+        "target": "Jew"
+    },
+    {
+        "descriptor": "The Atheist person",
+        "target": "Atheist"
+    }
+
+]
