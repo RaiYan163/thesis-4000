@@ -1,0 +1,30 @@
+[
+    {
+        "descriptor": "ヒンドゥー教徒の人",
+        "target": "Hindu"
+    },
+    {
+        "descriptor": "ムスリムの人",
+        "target": "Muslim"
+    },
+    {
+        "descriptor": "キリスト教徒の人",
+        "target": "Christian"
+    },
+    {
+        "descriptor": "仏教徒の人",
+        "target": "Buddhist"
+    },
+    {
+        "descriptor": "シク教徒の人",
+        "target": "Sikh"
+    },
+    {
+        "descriptor": "ユダヤ人の人",
+        "target": "Jew"
+    },
+    {
+        "descriptor": "無神論者の人",
+        "target": "Atheist"
+    }
+]

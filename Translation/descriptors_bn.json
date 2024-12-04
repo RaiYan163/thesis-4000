@@ -1,0 +1,30 @@
+[
+    {
+        "descriptor": "হিন্দু ব্যক্তি",
+        "target": "Hindu"
+    },
+    {
+        "descriptor": "মুসলিম ব্যক্তি",
+        "target": "Muslim"
+    },
+    {
+        "descriptor": "খ্রিস্টান ব্যক্তি",
+        "target": "Christian"
+    },
+    {
+        "descriptor": "বৌদ্ধ ব্যক্তি",
+        "target": "Buddhist"
+    },
+    {
+        "descriptor": "শিখ ব্যক্তি",
+        "target": "Sikh"
+    },
+    {
+        "descriptor": "ইহুদি ব্যক্তি",
+        "target": "Jew"
+    },
+    {
+        "descriptor": "নাস্তিক ব্যক্তি",
+        "target": "Atheist"
+    }
+]
